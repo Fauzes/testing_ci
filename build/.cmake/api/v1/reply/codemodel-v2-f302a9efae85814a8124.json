@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "build/src",
+					"jsonFile" : "directory-build.src-Debug-e7e6941f0fbac224c4e2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "build/test",
+					"jsonFile" : "directory-build.test-Debug-6c73e9f3c6ac93b3a1c6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AutoUnitTests"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Solving_quadratic_equation",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "tests",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "solver::@1f2133f60341753f7993",
+					"jsonFile" : "target-solver-Debug-f7e07e04e0e51b47932f.json",
+					"name" : "solver",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test1::@6569e3db0372c2ce7aa2",
+					"jsonFile" : "target-test1-Debug-9977429b2d32e170fa83.json",
+					"name" : "test1",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test2::@6569e3db0372c2ce7aa2",
+					"jsonFile" : "target-test2-Debug-c7d708b740b460dc4a1e.json",
+					"name" : "test2",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test3::@6569e3db0372c2ce7aa2",
+					"jsonFile" : "target-test3-Debug-ac257be0c876398321c2.json",
+					"name" : "test3",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test4::@6569e3db0372c2ce7aa2",
+					"jsonFile" : "target-test4-Debug-4fd7dc4bcfe7abd8cb46.json",
+					"name" : "test4",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test5::@6569e3db0372c2ce7aa2",
+					"jsonFile" : "target-test5-Debug-a167756b1cbd38c6c6d0.json",
+					"name" : "test5",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test6::@6569e3db0372c2ce7aa2",
+					"jsonFile" : "target-test6-Debug-99e9a56c8d87d08a5b6f.json",
+					"name" : "test6",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dima/Projects/edu/testing_ci/build",
+		"source" : "/home/dima/Projects/edu/testing_ci"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

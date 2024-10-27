@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libsolver.a CMakeFiles/solver.dir/solving_quadratic_equation.cpp.o
+/usr/bin/ranlib ../../lib/libsolver.a
