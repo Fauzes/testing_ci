@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/dima/Projects/edu/testing_ci/build/build/src",
+  "command": "/usr/bin/g++  -I/home/dima/Projects/edu/testing_ci/include -g -std=gnu++11 -o CMakeFiles/solver.dir/solving_quadratic_equation.cpp.o -c /home/dima/Projects/edu/testing_ci/src/solving_quadratic_equation.cpp",
+  "file": "/home/dima/Projects/edu/testing_ci/src/solving_quadratic_equation.cpp",
+  "output": "build/src/CMakeFiles/solver.dir/solving_quadratic_equation.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/testing_ci/build/build/test",
+  "command": "/usr/bin/g++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/dima/Projects/edu/testing_ci/include -g -std=gnu++11 -o CMakeFiles/test1.dir/test_solver_1.cpp.o -c /home/dima/Projects/edu/testing_ci/test/test_solver_1.cpp",
+  "file": "/home/dima/Projects/edu/testing_ci/test/test_solver_1.cpp",
+  "output": "build/test/CMakeFiles/test1.dir/test_solver_1.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/testing_ci/build/build/test",
+  "command": "/usr/bin/g++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/dima/Projects/edu/testing_ci/include -g -std=gnu++11 -o CMakeFiles/test2.dir/test_solver_2.cpp.o -c /home/dima/Projects/edu/testing_ci/test/test_solver_2.cpp",
+  "file": "/home/dima/Projects/edu/testing_ci/test/test_solver_2.cpp",
+  "output": "build/test/CMakeFiles/test2.dir/test_solver_2.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/testing_ci/build/build/test",
+  "command": "/usr/bin/g++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/dima/Projects/edu/testing_ci/include -g -std=gnu++11 -o CMakeFiles/test3.dir/test_solver_3.cpp.o -c /home/dima/Projects/edu/testing_ci/test/test_solver_3.cpp",
+  "file": "/home/dima/Projects/edu/testing_ci/test/test_solver_3.cpp",
+  "output": "build/test/CMakeFiles/test3.dir/test_solver_3.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/testing_ci/build/build/test",
+  "command": "/usr/bin/g++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/dima/Projects/edu/testing_ci/include -g -std=gnu++11 -o CMakeFiles/test4.dir/test_solver_4.cpp.o -c /home/dima/Projects/edu/testing_ci/test/test_solver_4.cpp",
+  "file": "/home/dima/Projects/edu/testing_ci/test/test_solver_4.cpp",
+  "output": "build/test/CMakeFiles/test4.dir/test_solver_4.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/testing_ci/build/build/test",
+  "command": "/usr/bin/g++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/dima/Projects/edu/testing_ci/include -g -std=gnu++11 -o CMakeFiles/test5.dir/test_solver_5.cpp.o -c /home/dima/Projects/edu/testing_ci/test/test_solver_5.cpp",
+  "file": "/home/dima/Projects/edu/testing_ci/test/test_solver_5.cpp",
+  "output": "build/test/CMakeFiles/test5.dir/test_solver_5.cpp.o"
+},
+{
+  "directory": "/home/dima/Projects/edu/testing_ci/build/build/test",
+  "command": "/usr/bin/g++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/dima/Projects/edu/testing_ci/include -g -std=gnu++11 -o CMakeFiles/test6.dir/test_solver_6.cpp.o -c /home/dima/Projects/edu/testing_ci/test/test_solver_6.cpp",
+  "file": "/home/dima/Projects/edu/testing_ci/test/test_solver_6.cpp",
+  "output": "build/test/CMakeFiles/test6.dir/test_solver_6.cpp.o"
+}
+]

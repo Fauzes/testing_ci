@@ -1,0 +1,22 @@
+Start testing: Oct 27 02:23 MSK
+----------------------------------------------------------
+6/6 Testing: Test6
+6/6 Test: Test6
+Command: "/home/dima/Projects/edu/testing_ci/build/bin/test6"
+Directory: /home/dima/Projects/edu/testing_ci/build/build/test
+"Test6" start time: Oct 27 02:23 MSK
+Output:
+----------------------------------------------------------
+Running 1 test case...
+
+[1;32;49m*** No errors detected
+[0;39;49m
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Test6" end time: Oct 27 02:23 MSK
+"Test6" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 27 02:23 MSK

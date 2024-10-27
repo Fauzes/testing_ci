@@ -1,0 +1,16 @@
+/home/dima/Projects/edu/testing_ci/build/CMakeFiles/test.dir
+/home/dima/Projects/edu/testing_ci/build/CMakeFiles/edit_cache.dir
+/home/dima/Projects/edu/testing_ci/build/CMakeFiles/rebuild_cache.dir
+/home/dima/Projects/edu/testing_ci/build/build/src/CMakeFiles/solver.dir
+/home/dima/Projects/edu/testing_ci/build/build/src/CMakeFiles/test.dir
+/home/dima/Projects/edu/testing_ci/build/build/src/CMakeFiles/edit_cache.dir
+/home/dima/Projects/edu/testing_ci/build/build/src/CMakeFiles/rebuild_cache.dir
+/home/dima/Projects/edu/testing_ci/build/build/test/CMakeFiles/test1.dir
+/home/dima/Projects/edu/testing_ci/build/build/test/CMakeFiles/test2.dir
+/home/dima/Projects/edu/testing_ci/build/build/test/CMakeFiles/test3.dir
+/home/dima/Projects/edu/testing_ci/build/build/test/CMakeFiles/test4.dir
+/home/dima/Projects/edu/testing_ci/build/build/test/CMakeFiles/test5.dir
+/home/dima/Projects/edu/testing_ci/build/build/test/CMakeFiles/test6.dir
+/home/dima/Projects/edu/testing_ci/build/build/test/CMakeFiles/test.dir
+/home/dima/Projects/edu/testing_ci/build/build/test/CMakeFiles/edit_cache.dir
+/home/dima/Projects/edu/testing_ci/build/build/test/CMakeFiles/rebuild_cache.dir
